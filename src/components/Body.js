@@ -1,4 +1,4 @@
-import { restaurantList } from "../Utils/constants";
+import { restaurantList } from "../utils/constants";
 import RestaurantCard from "./RestaurantCard";
 import { useState } from "react";
 
